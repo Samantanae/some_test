@@ -5,7 +5,7 @@ import os
 
 a = os.getcwd()
 
-os.makedirs()
+os.makedirs(os.path.join(a,""))
 
 
 
