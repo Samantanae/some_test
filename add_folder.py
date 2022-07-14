@@ -3,7 +3,9 @@
 import os
 
 
-a = os.
+a = os.getcwd()
+
+
 
 
 
