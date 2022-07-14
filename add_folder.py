@@ -3,7 +3,7 @@
 import os
 
 
-def add_folder(path,)
+def add_folder(path)
 
 
 
